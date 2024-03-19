@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.autoClosingOvertype": "always",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "html": "htmlreact",
+        "css": "cssreact"
+    }
+}
